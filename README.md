@@ -18,8 +18,8 @@ Ensure you have Python 3.8+ installed on your system.
 ### Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/news-summarizer.git
-   cd news-summarizer
+   git clone https://github.com/MahdiCoding/News-Summarization-Tool.git
+   cd News-Summarization-Tool
    ```
 
 2. Create a virtual environment (optional but recommended):
